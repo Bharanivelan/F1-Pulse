@@ -1,0 +1,8 @@
+{
+  "name": "F1 Live Pulse",
+  "description": "A high-performance second-screen platform for F1 2026 featuring live strategy, broadcast-synced telemetry, and AI-powered race predictions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
